@@ -19,16 +19,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>title</title>
-    <url>/2024/09/22/title/R/</url>
-    <content><![CDATA[<p>test running</p>
-]]></content>
+    <title>关于Hexo</title>
+    <url>/2024/09/22/%E5%85%B3%E4%BA%8EHexo/R/</url>
+    <content><![CDATA[<h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><h2 id="什么是Hexo"><a href="#什么是Hexo" class="headerlink" title="什么是Hexo"></a>什么是Hexo</h2><h2 id="为什么使用Hexo"><a href="#为什么使用Hexo" class="headerlink" title="为什么使用Hexo"></a>为什么使用Hexo</h2><h2 id="Hexo的常用命令"><a href="#Hexo的常用命令" class="headerlink" title="Hexo的常用命令"></a>Hexo的常用命令</h2><span id="more"></span>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">--清除生成的静态文件</span><br><span class="line">hexo clean </span><br><span class="line"></span><br><span class="line">--在站点目录下生成public文件夹（静态数据）</span><br><span class="line">hexo generate</span><br><span class="line">hexo g</span><br><span class="line"></span><br><span class="line">--本地服务发布</span><br><span class="line">hexo server</span><br><span class="line">hexo s</span><br><span class="line"></span><br><span class="line">--发布到github远程服务上</span><br><span class="line">hexo deploy</span><br><span class="line">hexo d</span><br><span class="line"></span><br><span class="line">--新增文章</span><br><span class="line">hexo new &quot;文章名称&quot;</span><br><span class="line"></span><br><span class="line">--新增页面</span><br><span class="line">hexo new page &quot;页面名称&quot;</span><br></pre></td></tr></table></figure>
+
+<h2 id="hexo配置"><a href="#hexo配置" class="headerlink" title="hexo配置"></a>hexo配置</h2>]]></content>
       <categories>
-        <category>category</category>
+        <category>Hexo</category>
       </categories>
       <tags>
-        <tag>test</tag>
-        <tag>name</tag>
+        <tag>Hexo</tag>
+        <tag>config</tag>
       </tags>
   </entry>
 </search>
